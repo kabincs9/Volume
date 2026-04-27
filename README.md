@@ -26,7 +26,7 @@ Perfect for learning binary file processing and audio data manipulation.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/volume.git
+git clone https://github.com/kabincs9/volume.git
 cd volume
 
 # Compile
